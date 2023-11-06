@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 figs/*
 .DS_Store
+.DS_Store
+data/.DS_Store
